@@ -6,7 +6,6 @@ import Hero from '../components/Hero';
 import HowItWorks from '../components/HowItWorks';
 import WhyTempara from '../components/WhyTempara';
 import UseCases from '../components/UseCases';
-import Testimonials from '../components/Testimonials';
 import CTASection from '../components/CTASection';
 import Footer from '../components/Footer';
 import VideoIntro from '../components/VideoIntro';
@@ -89,7 +88,6 @@ export default function Home() {
       <HowItWorks />
       <WhyTempara />
       <UseCases />
-      <Testimonials />
       <CTASection />
       <Footer />
     </main>
