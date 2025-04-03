@@ -1,8 +1,8 @@
 import '@/styles/globals.css';
 
 export const metadata = {
-  title: 'Tempara Solutions | AI Solutions for PropTech',
-  description: 'Leveraging AI tools and automation to uncover hidden market opportunities, reduce operational costs, and optimize decision-making in real estate.',
+  title: 'Tempara Solutions | Custom AI Solutions',
+  description: 'Tempara Solutions builds custom AI solutions that help businesses streamline operations, gain valuable insights, and create competitive advantages.',
 };
 
 export default function RootLayout({ children }) {
